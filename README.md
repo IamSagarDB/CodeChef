@@ -1,2 +1,6 @@
 # CodeChef
-Solving Codechef  Problem 
+Solving CodeChef Problem 
+
+|Problem|Level|Solution
+|--|--|--|
+
